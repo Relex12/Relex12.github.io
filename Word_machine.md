@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Word Machine"
-permalink: fr/Word-machine
+permalink: Word-machine
 ---
 
 # Word-machine

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Table of Contents"
-permalink: fr/Markdown-Table-of-Contents
+permalink: Markdown-Table-of-Contents
 ---
 
 # Markdown-Table-of-Contents

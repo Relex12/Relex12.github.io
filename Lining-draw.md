@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lining draw"
-permalink: fr/Lining-draw
+permalink: Lining-draw
 ---
 
 # Lining-draw

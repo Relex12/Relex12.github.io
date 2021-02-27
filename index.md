@@ -26,7 +26,7 @@ In French :
 * [Loup-garou](http://relex12.github.io/fr/Loup-garou)
 * [Maths for IT](http://relex12.github.io/fr/Maths-for-IT)
 * [Secret-santa](http://relex12.github.io/fr/Secret-Santa)
-* [Voting System Comparison](http://relex12.github.io/fr/Voting-System-Comparaison)
+* [Voting System Comparison](http://relex12.github.io/fr/Voting-Systems-Comparison)
 
 ## Guide through my GitHub repositories
 

@@ -2,46 +2,67 @@
 layout: default
 title: "Relex12 - Adrian Bonnet"
 ---
+
 # Hi there 👋
 
-**My name is Adrian Bonnet - aka Relex12 - let me introduce myself !**
+**My name is Adrian Bonnet, aka Relex12 !**
 
 <br/>
 
 [![Relex12's github stats](https://github-readme-stats.vercel.app/api?username=Relex12&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## My past, present and future projects
-
-### :car: What I'm currently working on
-
-* my **website**, hosted by *GitHub Pages* and powered by *Jekyll* : [Relex12.github.io](https://Relex12.github.io)
 <br/>
 
-### :boat: Have a look at my work
+## Guide through my website
+
+In English :
+* [Lining draw](http://relex12.github.io/Lining-draw)
+* [Markdown Table of Contents](http://relex12.github.io/Markdown-Table-of-Contents)
+* [Word Machine](http://relex12.github.io/Word-machine)
+
+In French :
+* [Genex](http://relex12.github.io/fr/Genex)
+* [Languages](http://relex12.github.io/fr/Languages)
+* [Loup-garou](http://relex12.github.io/fr/Loup-garou)
+* [Maths for IT](http://relex12.github.io/fr/Maths-for-IT)
+* [Secret-santa](http://relex12.github.io/fr/Secret-Santa)
+* [Voting System Comparison](http://relex12.github.io/fr/Voting-System-Comparaison)
+
+## Guide through my GitHub repositories
+
+### 💻 My work
+
+
 
 [![Word_machine](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word_machine)](https://github.com/Relex12/Word_machine)
+<br/>[![Markdown-Table-of-Contents](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Markdown-Table-of-Contents)](https://github.com/Relex12/Word_machine)
+<br/> [![Secret-Santa](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Secret-Santa)](https://github.com/Relex12/Word_machine)
 <br/>
 [![lining-draw](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=lining-draw)](https://github.com/Relex12/lining-draw)
 <br/>
 
-### :rocket: Incoming projects
+### 📖 What I wrote
+
+
+
+[![Voting-Systems-Comparison](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Voting-Systems-Comparison)](https://github.com/Relex12/Maths_for_IT)
+<br/>[![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
+<br/>
+[![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://github.com/Relex12/Languages)
+<br/>
+
+### 🚀 Upcoming projects
+
+
 
 [![Loup-garou](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Loup-garou)](https://github.com/Relex12/Loup-garou)
 <br/>
 [![Genex](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Genex)](https://github.com/Relex12/Genex)
 <br/>
 
-## :book: You can also read
-
-[![Maths_for_IT](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Maths_for_IT)](https://github.com/Relex12/Maths_for_IT)
-<br/>
-[![Languages](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Languages)](https://github.com/Relex12/Languages)
-<br/>
-
 ## My skills
 
-### :heavy_check_mark: Languages and Tools
+### ✅ Languages and Tools
 
 <center>
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
@@ -61,7 +82,7 @@ title: "Relex12 - Adrian Bonnet"
 
 <br/>
 
-### :question: What I want to learn
+### ❓ What I want to learn
 
 <center>
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
@@ -74,40 +95,12 @@ title: "Relex12 - Adrian Bonnet"
 
 ## About me
 
-I am French IT engineer student,[...].
+I am French IT engineer from the South of France. I studied in **Grenoble INP - Esisar** engineering school from 2016 to 2021.
 
-I grew up near Avignon [...]
+I learned about **development**, **networks** and **cyber-security**.
 
-In 2016, I joined Grenoble INP - Esisar school [...]
 
-### :checkered_flag: Personal goals
+### 📫 Contact
 
-My objectives are
-
-* to get more stars on my projects, by diffusing my work
-* to contribute to other open-source projects
-
-### :link: See more
-
-If your interested, please have a look at the following
-
-<center>
-<a href="https://Relex12.github.io"><img align="left" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
-<a href="https://GitHub.com/Relex12"><img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
-<a href="https://fr.linkedin.com/in/adrian-bonnet-897b6218a"><img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<br/>
-<br/>
-</center>
-
-### :mailbox: ​Contact
-
-* by email : adrian.bonnet@etu.esisar.grenoble-inp.fr (business) or relex12@free.fr (personal)
+* by email : adrian.bonnet@grenoble-inp.org (business) or relex12@free.fr (personal)
 * by instant message on LinkedIn or Facebook Messenger
-
-<br/>
-
----
-
-Version en Français à venir.
-
----

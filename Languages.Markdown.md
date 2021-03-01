@@ -4,52 +4,67 @@ title: "Markdown"
 permalink: fr/Languages/Markdown
 ---
 
+
 * *italique*
+
 ```markdown
 *italique* ou _italique_
 ```
 
 * **gras**
+
 ```markdown
 **gras** ou __gras__
 ```
 
 * Titre de niveau 1
+
 # Titre
+
 ```markdown
 # Titre
 ```
 
 * Titre de niveau 2
+
 ## Titre
+
 ```markdown
 ## Titre
 ```
 
 * etc..
+
 ```markdown
 ### Titre
 ```
 
 * liste à puces
+
 	* élément A
 	* élément B
 		* sous-élément
+
 ```markdown
 * élément A
+
 * élément B
+
 	* sous-élément
 ```
 
 * liste numérotée
+
 1. premier
 2. deuxième
+
 ```markdown
 1. premier
 2. deuxième
 ```
 
 * citation
+
 > citation
 
 ```markdown
@@ -58,6 +73,7 @@ permalink: fr/Languages/Markdown
 ```
 
 * code multiligne
+
 ```c
 int main() {
 	printf("Hello world!\n");
@@ -75,6 +91,7 @@ return 0;
 ```
 
 * `code` en ligne
+
 ```markdown
 `code`
 ```
@@ -86,12 +103,15 @@ return 0;
 ```
 
 * image
+
 ```markdown
 ![Image](https://github.com/Relex12/myimage.png)
 ```
 
 * séparation horizontale
+
 -----------
+
 ```markdown
 -----
 ou
@@ -99,6 +119,7 @@ ou
 ```
 
 * tableau
+
 |      |      |      |
 | ---- | ---- | ---- |
 |      |      |      |
@@ -136,11 +157,13 @@ ou
 ```
 
 * note[^1] de base de page
+
 [^1]: explication
+
 ```markdown
 note[^1] de base de page
 [^1]: explication
-	```
+```
 
 * $\LaTeX$ dans une ligne
 
@@ -151,11 +174,5 @@ $\LaTeX$
 * table des matières
 
 ```markdown
-* [Titre](#titre)
-* [Titre](#titre)
-    * [Titre](#titre)
-    * [Titre](#titre)
-        * [Titre](#titre)
-
-<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
+[toc]
 ```

@@ -5,7 +5,7 @@ permalink: fr/Lining-draw
 ---
 
 # Lining-draw
-Script en Processing pour créer des courbes à partir de lines uniquement
+Script en Processing pour créer des courbes à partir de lignes uniquement
 
 ![](https://img.shields.io/badge/status-Finished-green) ![](https://img.shields.io/github/license/Relex12/Lining-draw) ![](https://img.shields.io/github/repo-size/Relex12/Lining-draw) ![](https://img.shields.io/github/languages/top/Relex12/Lining-draw) ![](https://img.shields.io/github/last-commit/Relex12/Lining-draw) ![](https://img.shields.io/github/stars/Relex12/Lining-draw)
 
@@ -61,7 +61,7 @@ Voici deux exemples de figures pré-enregistrées :
 
 Dans le dossier `drawing/` il y a trois scripts :
 
-* `drawing.pde` est le script que vous devrez exécuter, il appelle une fonciton `figure` dans une structure switch et définit les variables `step` et `maxVal`
+* `drawing.pde` est le script que vous devrez exécuter, il appelle une fonction `figure` dans une structure switch et définit les variables `step` et `maxVal`
 * `figures.pde` est là où sont définies toutes les figures, vous pouvez y trouver la forme basique et la forme d'étoile à quatre rayons ci-dessus, parmi d'autres, et c'est là que vous êtes supposé en ajouter
 * `fonctions.pde` fournit les fonctions pour les quatre angles haut/bas gauche/droite qui sont appelées pour chaque figure
 
@@ -77,7 +77,7 @@ Ce projet est un petit projet, l'auteur a travaillé tout seul dessus pendant pe
 
 Si vous voulez ajouter des fonctionnalités, faîtes un fork sur le dépôt. Il n'est pas prévu d'accepter de Pull Requests, mais qui sait.
 
-## Compatibilité de Processing 
+## Compatibilité de Processing
 
 Comme c'est un petit projet, le code n'a été testé que sous Processing 3 (3.5.4). J'espère que ça marchera pour toutes les anciennes et nouvelles versions.
 

@@ -1,4 +1,5 @@
 exclude:
 - README.md
-- *.txt
+- "A faire.txt"
+- LICENSE.txt
 

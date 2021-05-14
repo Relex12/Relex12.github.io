@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Relex12 - Adrian Bonnet"
+permalink: null
 ---
 
 # Hi there 👋

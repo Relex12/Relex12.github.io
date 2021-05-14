@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Simple-Progress-Bar"
+title: "Simple Progress Bar"
 permalink: fr/Simple-Progress-Bar
 ---
 

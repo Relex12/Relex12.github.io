@@ -1,8 +1,0 @@
-index.md 		-> Relex12/Readme.md
-
-1 fichiers md par projet, contenant le readme
-pour les sous-fichiers (exemple doc), utiliser le permalink
-
-exemple :
-word_machine.md 	-> 	word_machine/readme.md
-word_machine.doc.html		-> 		word_machine/doc/doc.html				permalink: word_machine/doc

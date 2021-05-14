@@ -1,39 +1,6 @@
-- explorer la fonctionnalité permalink qui semble marcher sur Word_machine.doc.md
-- afficher la favicon sur toutes les pages (y compris les dossiers)
-- 404.html
+- layout default avec une arborescence de la page actuelle
+- layout spécial pour la première page
+- layout spécial pour les articles
+- layout spécial pour la documentation, avec un lien vers le site
+- 404.html à étayer
 
-
-- ajouter une section liens dans index.md
-- changer les émojis dans index.md (Relex12/readme.md)
-- mettre à jour / importer les fichiers
-
-------
-
-- créer une architecture nouvelle pour le site
-- se passer de plainwhite.gemspec
-- jekyll ignore les fichiers qui doivent l'être (voir _site/)
-- supprimer aboutme.md et projects.md
-- changer les layouts qui n'existent plus
-- déplacer les balises dans le footer
-- rédiger le footer
-- modifier / changer la favicon
-
-------
-
-Voting system comparison
-Languages
-Languages/Sheets/*
-Markdown table of contents
-Loup-garou
-Secret-santa
-Word_machine
-Word_machine/doc/*
-Maths for IT
-Genex
-Lining draw
-
-------
-Dans un second temps
-
-- CNAME
-- faire une navigation sur le site plus claire

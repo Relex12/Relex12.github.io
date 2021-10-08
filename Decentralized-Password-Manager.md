@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Decentralized-Password-Manager"
-permalink: Decentralized-Password-Manager
+permalink: fr/Decentralized-Password-Manager
 ---
 
 # Decentralized-Password-Manager

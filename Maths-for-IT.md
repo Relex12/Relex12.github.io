@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Maths for IT"
-permalink: Maths-for-IT
+permalink: fr/Maths-for-IT
 ---
 
 # Problèmes, Algorithmes et Intelligence artificielle

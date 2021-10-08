@@ -171,14 +171,3 @@ note[^1] de base de page
 $\LaTeX$
 ```
 
-* table des matières
-
-```markdown
-* [Titre](#titre)
-* [Titre](#titre)
-    * [Titre](#titre)
-    * [Titre](#titre)
-        * [Titre](#titre)
-
-<!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
-```

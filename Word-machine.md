@@ -7,6 +7,22 @@ permalink: Word-machine
 # Word-machine
 A word generator from dictionary in Python
 
+![](https://img.shields.io/github/license/Relex12/Word-Machine) ![](https://img.shields.io/github/repo-size/Relex12/Word-Machine) ![](https://img.shields.io/github/languages/top/Relex12/Word-Machine) ![](https://img.shields.io/github/last-commit/Relex12/Word-Machine) ![](https://img.shields.io/github/stars/Relex12/Word-Machine)
+
+Check out on GitHub
+
+[![Word-Machine](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Word-Machine)](https://github.com/Relex12/Word-Machine)
+
+Documentation:
+
+* [`dictionary.py`](https://relex12.github.io/Word-machine/doc/dictionary.html)
+* [`generation.py`](https://relex12.github.io/Word-machine/doc/generation.html)
+* [`word-machine.py`](https://relex12.github.io/Word-machine/doc/word-machine.html)
+
+---
+
+## Summary
+
 * [Word-machine](#word-machine)
     * [Description](#description)
     * [Original idea](#original-idea)
@@ -37,7 +53,7 @@ Please make sure to watch his video : [La machine à inventer des mots (avec Cod
 
 ## Run the demo
 
-One word-machine is installed, you should be able to run `python3 word-machine.py -g 1`, the output will be `HelloWorld!`.
+One word-machine is installed, you should be able to run `python3 word-machine.py -d helloworld.txt -g 1`, the output will be `HelloWorld!`.
 
 ## Dictionary processing
 

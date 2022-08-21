@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: "Wikipedia Translate Crawler"
 permalink: Wikipedia-Translate-Crawler
 ---

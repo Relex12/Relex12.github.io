@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Comparatif"
-permalink: fr/Decentralized-Password-Manager/Comparatif
+title: "Fonctionnalites"
+permalink: fr/Decentralized-Password-Manager/Fonctionnalites
 ---
 
 # Fonctionnalités

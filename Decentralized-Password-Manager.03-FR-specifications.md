@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Comparatif"
+title: "Specifications"
 permalink: fr/Decentralized-Password-Manager/Specifications
 ---
 

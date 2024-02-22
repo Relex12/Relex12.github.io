@@ -6,22 +6,27 @@ permalink: fr/Decentralized-Password-Manager/Comparatif
 
 # Comparatif
 
-Spécifications et design d'un gestionnaire de mots de passe décentralisé synchronisé sans tiers de confiance
+Comparaison des gestionnaires de mots de passe existants et de leurs modes de fonctionnement
+
+[Menu principal](https://relex12.github.io/fr/Decentralized-Password-Manager)
+
+[Page suivante : Solutions](https://relex12.github.io/fr/Decentralized-Password-Manager/Solutions)
 
 ## Sommaire
 
-* [Utilité du gestionnaire de mots de passe](#utilité-du-gestionnaire-de-mots-de-passe)
-* [Fonctionnement](#fonctionnement)
-    * [Fichier chiffré sur le disque](#fichier-chiffré-sur-le-disque)
-    * [Synchronisation via un serveur](#synchronisation-via-un-serveur)
-    * [Solution stateless](#solution-stateless)
-    * [Basé sur un dépôt Git](#basé-sur-un-dépôt-git)
-    * [Basé sur la Blockchain](#basé-sur-la-blockchain)
-
-* [Comparaison](#comparaison)
-    * [Critères](#critères)
-    * [Gestionnaires de mots de passe](#gestionnaires-de-mots-de-passe)
-    * [Conclusion](#conclusion)
+* [Comparatif](#comparatif)
+    * [Sommaire](#sommaire)
+    * [Utilité du gestionnaire de mots de passe](#utilité-du-gestionnaire-de-mots-de-passe)
+    * [Fonctionnement](#fonctionnement)
+        * [Fichier chiffré sur le disque](#fichier-chiffré-sur-le-disque)
+        * [Synchronisation via un serveur](#synchronisation-via-un-serveur)
+        * [Solution stateless](#solution-stateless)
+        * [Basé sur un dépôt Git](#basé-sur-un-dépôt-git)
+        * [Basé sur la Blockchain](#basé-sur-la-blockchain)
+    * [Comparaison](#comparaison)
+        * [Critères](#critères)
+        * [Gestionnaires de mots de passe](#gestionnaires-de-mots-de-passe)
+        * [Conclusion](#conclusion)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
@@ -39,12 +44,12 @@ Ces bonnes pratiques[^3] sont :
 
 *   12 caractères minimum
 *   des chiffres, des lettres majuscules et minuscule et des caractères spéciaux
-*   pas de lien logique entre les caractères (dates, mots d'une langue, etc...)
-*   pas de permutation (les *E* en *3*, *a* en *@*, *o* en *0*, etc...)
+*   pas de lien logique entre les caractères (dates, mots d'une langue, etc.)
+*   pas de permutation (les *E* en *3*, *a* en *@*, *o* en *0*, etc.)
 
 Et le point le plus important est le suivant :
 
-*   pas de lien logique entre les mots de passe (réutilisation, modification, permutation, etc...)
+*   pas de lien logique entre les mots de passe (réutilisation, modification, permutation, etc.)
 
 > Je respecte plusieurs points de la liste, ça suffit non ?
 
@@ -89,15 +94,15 @@ Cette partie n'est pas nécessaire si vous cherchez uniquement une alternative g
 
 C'est le fonctionnement de base d'un gestionnaire de mots de passe. Tous vos mots de passe sont assemblés en un fichier chiffré sur votre disque dur grâce au mot de passe maître. De cette manière, une personne qui accéderait à votre ordinateur ne peut récupérer vos mots de passe sans connaître votre mot de passe maître.
 
-Une fois que vous avez besoin d'accéder à vos mots de passe, pour vous connecter quelque part par exemple, il vous suffit de rentrer votre mot de passe maître dans votre gestionnaire de mot de passe pour déchiffrer le fichier qui contient tous vos mots de passe.
+Une fois que vous avez besoin d'accéder à vos mots de passe, pour vous connecter quelque part par exemple, il vous suffit de rentrer votre mot de passe maître dans votre gestionnaire de mots de passe pour déchiffrer le fichier qui contient tous vos mots de passe.
 
-![](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/encrypted-file.png)
+![encrypted file](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/01-encrypted-file.png)
 
 *Exemple* : KeePass
 
 **Désavantage** :
 
-*   Vos mots de passe sont stockés sur l'espace disque d'un seul appareil, votre ordinateur ou votre smartphone. **Vous ne pouvez pas** accéder à vos mots de passe depuis un autre appareil. Notamment, **il n'y a pas de synchronisation** entre vos appareils. Cette contrainte implique que ce type de gestionnaires de mots de passe est peu utilisé dans le grand public.  
+*   Vos mots de passe sont stockés sur l'espace disque d'un seul appareil, votre ordinateur ou votre smartphone. **Vous ne pouvez pas** accéder à vos mots de passe depuis un autre appareil. Notamment, **il n'y a pas de synchronisation** entre vos appareils. Cette contrainte implique que ce type de gestionnaires de mots de passe est peu utilisé dans le grand public.
 
 ### Synchronisation via un serveur
 
@@ -105,9 +110,9 @@ Pour parvenir à synchroniser vos mots de passe entre différents appareils, de 
 
 Ici le service qui vous est vendu, c'est celui d'avoir à disposition, dans un serveur d'une entreprise privée, vos mots de passe sous la forme d'un fichier chiffré. Ainsi, n'importe où dans le monde et à n'importe quel moment, vous pouvez vous connecter à votre compte et récupérer vos mots de passe. De la même manière, quand vous ajoutez des nouveaux mots de passe, le fichier chiffré est mis à jour, la synchronisation est donc totale.
 
-![](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/server-stored.png)
+![server stored](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/01-server-stored.png)
 
-![](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/server-pulled.png)
+![server pulled](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/01-server-pulled.png)
 
 *Exemples* : 1PassWord, BitWarden, NordPass, Dashlane, etc.
 
@@ -120,7 +125,7 @@ Ici le service qui vous est vendu, c'est celui d'avoir à disposition, dans un s
 
 Puisque le problème est de stocker le fichier chiffré quelque part, les solutions stateless proposent une toute nouvelle approche : au lieu de stocker les mots de passe pour que vous puissiez y accéder pour vous connecter sur vos sites, il est question ici de *calculer* vos mots de passe à partir de votre mot de passe maître et d'informations comme le nom du site. Plus besoin de *stocker* vos mots de passe : comme le mot de passe de votre site est *calculé*, il vous suffit de fournir les mêmes informations d'une connexion sur l'autre avoir votre mot de passe.
 
-![](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/stateless.png)
+![stateless](https://raw.githubusercontent.com/Relex12/Decentralized-Password-Manager/master/img/01-stateless.png)
 
 *Exemple* : LessPass
 
@@ -168,7 +173,7 @@ Dans un premier temps, nous prenons pas en compte des critères trop élaborés 
 Voici quels sont nos critères pour cette comparaison :
 
 *   **Licence** : *propriétaire*, *freemium*, *libre*
-*   **Open source **: *oui*, *non*
+*   **Open source** : *oui*, *non*
 *   **Fonctionnement** : *local*, *serveur*, *stateless*, *git*, *blockchain*
 *   **OS** : *navigateur*, *Windows*, *macOS*, *Linux*, *Android*, *iOS*
 *   **Accès public au fichier chiffré** : *possible*, *connexion requise*, *impossible*

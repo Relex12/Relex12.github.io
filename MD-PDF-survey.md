@@ -70,6 +70,9 @@ pandoc: file.md
 wkhtmltopdf: tmp.html
 	wkhtmltopdf --encoding utf-8 $< $@.pdf
 
+pandoc-wkhtmltopdf: file.md
+	pandoc $< --output=$@.pdf --metadata-file .header.yml --pdf-engine=wkhtmltopdf
+
 weasyprint: tmp.html
 	weasyprint --encoding utf-8 $< $@.pdf
 

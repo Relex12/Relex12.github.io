@@ -56,7 +56,7 @@ permalink: null
 
 [![Secret-Santa](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Secret-Santa)](https://relex12.github.io/fr/Secret-Santa)
 
-[![SecretSantaJS](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=SecretSantaJS)](https://relex12.github.io/fr/SecretSantaJS)
+[![SecretSantaJS](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=SecretSantaJS)](https://relex12.github.io/SecretSantaJS)
 
 ### 🔮 Future
 
